@@ -1,0 +1,986 @@
+[
+  {
+      "title": "mt_v2_ca5_45",
+      "content": "How does the Division Theorem apply to budget allocation?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By dividing budget into categories",
+              "is_correct": true
+          },
+          {
+              "content": "By multiplying budget among categories",
+              "is_correct": false
+          },
+          {
+              "content": "By adding budget equally among categories",
+              "is_correct": false
+          },
+          {
+              "content": "By subtracting budget among categories",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_43",
+      "content": "How does understanding divisibility benefit inventory tracking?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By dividing products into categories",
+              "is_correct": false
+          },
+          {
+              "content": "By ensuring products are divisible for inventory counts",
+              "is_correct": true
+          },
+          {
+              "content": "By adding products equally among categories",
+              "is_correct": false
+          },
+          {
+              "content": "By optimizing storage space",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_42",
+      "content": "If you have 78 marbles and want to divide them equally among 7 friends, how many marbles will each friend get and what will be the remainder?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "11 marbles each and 1 remainder",
+              "is_correct": true
+          },
+          {
+              "content": "11 marbles each and 2 remainder",
+              "is_correct": false
+          },
+          {
+              "content": "11 marbles each and 3 remainder",
+              "is_correct": false
+          },
+          {
+              "content": "11 marbles each and 4 remainder",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_40",
+      "content": "What does the Division Theorem state about the division of integers?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "The quotient is always an integer",
+              "is_correct": false
+          },
+          {
+              "content": "The quotient and remainder must both be integers",
+              "is_correct": true
+          },
+          {
+              "content": "The remainder is always zero",
+              "is_correct": false
+          },
+          {
+              "content": "Division is not possible",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_41",
+      "content": "How does understanding divisibility help in event planning?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By dividing guests into tables of specific sizes",
+              "is_correct": true
+          },
+          {
+              "content": "By factoring large composite numbers",
+              "is_correct": false
+          },
+          {
+              "content": "By optimizing logistics",
+              "is_correct": false
+          },
+          {
+              "content": "None of the above",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_44",
+      "content": "If you have 67 pencils and want to divide them equally among 6 classrooms, how many pencils will each classroom get and what will be the remainder?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "11 pencils each and 1 remainder",
+              "is_correct": true
+          },
+          {
+              "content": "11 pencils each and 2 remainder",
+              "is_correct": false
+          },
+          {
+              "content": "11 pencils each and 3 remainder",
+              "is_correct": false
+          },
+          {
+              "content": "11 pencils each and 4 remainder",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_39",
+      "content": "Which of the following is NOT a  basic property of divisibility?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "A∣0 and 𝑎∣𝑎",
+              "is_correct": false
+          },
+          {
+              "content": "A∣1 if and only if 𝑎=±1",
+              "is_correct": false
+          },
+          {
+              "content": "If 𝑎∣𝑏 and 𝑐∣𝑑, then 𝑎𝑐 ∣ 𝑏𝑑 (assuming 𝑐≠0 and a≠0)",
+              "is_correct": false
+          },
+          {
+              "content": "If 𝑎∣𝑏 and 𝑏 ≠ 0, then ∣𝑎∣ ≥  ∣𝑏∣",
+              "is_correct": true
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_37",
+      "content": "If you have a recipe that calls for 5 cups of flour and you want to make 0 servings, how much flour do you need?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "5 cups",
+              "is_correct": false
+          },
+          {
+              "content": "1 cup",
+              "is_correct": false
+          },
+          {
+              "content": "0 cups",
+              "is_correct": true
+          },
+          {
+              "content": "10 cups",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_38",
+      "content": "If you have 1 chocolate bar and you want to distribute it evenly among friends, how many friends can you distribute it to if each gets a whole bar?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "1 friend",
+              "is_correct": true
+          },
+          {
+              "content": "2 friends",
+              "is_correct": false
+          },
+          {
+              "content": "0 friends",
+              "is_correct": false
+          },
+          {
+              "content": "Infinite friends",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_35",
+      "content": "How does understanding infinity help in modern science and engineering?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By dividing memory blocks",
+              "is_correct": false
+          },
+          {
+              "content": "By factoring large composite numbers",
+              "is_correct": false
+          },
+          {
+              "content": "By grouping products in warehouses",
+              "is_correct": false
+          },
+          {
+              "content": "By forming the basis for calculus",
+              "is_correct": true
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_34",
+      "content": "How does the Division Theorem relate to loan repayment?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By allocating memory blocks",
+              "is_correct": false
+          },
+          {
+              "content": "By determining how many full payments can be made and the remaining balance",
+              "is_correct": true
+          },
+          {
+              "content": "By factoring large composite numbers",
+              "is_correct": false
+          },
+          {
+              "content": "By optimizing logistics",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_36",
+      "content": "How does the Division Theorem apply to cooking and baking?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By allocating memory blocks",
+              "is_correct": false
+          },
+          {
+              "content": "By dividing ingredients into portions",
+              "is_correct": true
+          },
+          {
+              "content": "By factoring large composite numbers",
+              "is_correct": false
+          },
+          {
+              "content": "By optimizing logistics",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_32",
+      "content": "How does the Division Theorem relate to real-world scheduling?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By dividing tasks equally among team members",
+              "is_correct": true
+          },
+          {
+              "content": "By multiplying tasks among team members",
+              "is_correct": false
+          },
+          {
+              "content": "By subtracting tasks among team members",
+              "is_correct": false
+          },
+          {
+              "content": "None of the above",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_27",
+      "content": "Which arithmetic operation among integers does not always yield another integer?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " Addition",
+              "is_correct": false
+          },
+          {
+              "content": " Subtraction",
+              "is_correct": false
+          },
+          {
+              "content": " Multiplication",
+              "is_correct": false
+          },
+          {
+              "content": " Division",
+              "is_correct": true
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_29",
+      "content": "How is divisibility defined in number theory?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " When division results in a fraction",
+              "is_correct": false
+          },
+          {
+              "content": " When one number can be divided by another without a remainder",
+              "is_correct": true
+          },
+          {
+              "content": " When one number is larger than another",
+              "is_correct": false
+          },
+          {
+              "content": " When two numbers are equal",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_31",
+      "content": "What is the significance of the Fundamental Theorem of Arithmetic?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " It solves quadratic equations",
+              "is_correct": false
+          },
+          {
+              "content": " It states that every natural number greater than 1 is either a prime or can be expressed as a product of primes",
+              "is_correct": true
+          },
+          {
+              "content": " It defines the properties of real numbers",
+              "is_correct": false
+          },
+          {
+              "content": " It explains the concept of infinity",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_30",
+      "content": "What does the notation b|a signify in divisibility?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " a subtracts b",
+              "is_correct": false
+          },
+          {
+              "content": " a is divisible by b",
+              "is_correct": true
+          },
+          {
+              "content": " a is greater than b",
+              "is_correct": false
+          },
+          {
+              "content": " b is greater than a",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_26",
+      "content": "What mathematical domain explores the deeper properties and relationships of integers?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " Calculus",
+              "is_correct": false
+          },
+          {
+              "content": " Geometry",
+              "is_correct": false
+          },
+          {
+              "content": " Number Theory",
+              "is_correct": true
+          },
+          {
+              "content": " Algebra",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_28",
+      "content": "What theorem is concerned with the relationship between integers involving a quotient and a remainder?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": " Pythagorean Theorem",
+              "is_correct": false
+          },
+          {
+              "content": " Division Theorem",
+              "is_correct": true
+          },
+          {
+              "content": " Fundamental Theorem of Calculus",
+              "is_correct": false
+          },
+          {
+              "content": " Binomial Theorem",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_22",
+      "content": "Which sequence converges to the limit of 0?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "2, 4, 6, ...",
+              "is_correct": false
+          },
+          {
+              "content": "5, 5, 5, ...",
+              "is_correct": false
+          },
+          {
+              "content": "1, -1, 1, -1, ...",
+              "is_correct": false
+          },
+          {
+              "content": "1, 1/2, 1/4, 1/8, ...",
+              "is_correct": true
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_25",
+      "content": "How can the completeness property of real numbers be simply described?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "Every real number is rational",
+              "is_correct": false
+          },
+          {
+              "content": "Every set of real numbers has an upper bound",
+              "is_correct": false
+          },
+          {
+              "content": "Every bounded set of real numbers has a least upper bound",
+              "is_correct": true
+          },
+          {
+              "content": "None of the above",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_24",
+      "content": "What is the significance of the Lebombo bone?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "It is the first written record of numbers",
+              "is_correct": false
+          },
+          {
+              "content": "It is the oldest known mathematical artifact",
+              "is_correct": true
+          },
+          {
+              "content": "It is a tool for measuring time",
+              "is_correct": false
+          },
+          {
+              "content": "It is a tool for predicting weather",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_23",
+      "content": "What is the behavior of the sequence 10, 10, 10, ...?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "It gets closer to sqaure root of 2",
+              "is_correct": false
+          },
+          {
+              "content": "It alternates between values",
+              "is_correct": false
+          },
+          {
+              "content": "It repeats the same value",
+              "is_correct": true
+          },
+          {
+              "content": "It increases without bound",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_17",
+      "content": "What is the defining characteristic of a constant sequence?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "It alternates between values",
+              "is_correct": false
+          },
+          {
+              "content": "It gets closer to square root of 2",
+              "is_correct": false
+          },
+          {
+              "content": "It consists of repeating the same value",
+              "is_correct": true
+          },
+          {
+              "content": "It increases without bound",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_16",
+      "content": "Which of the following sequences is a sequence of natural numbers?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "2, 4, 6, 8, ...",
+              "is_correct": true
+          },
+          {
+              "content": "10, 10, 10, ...",
+              "is_correct": false
+          },
+          {
+              "content": "5, -5, 5, -5, ...",
+              "is_correct": false
+          },
+          {
+              "content": "1.1, 1.2, 1.3, ...",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_14",
+      "content": "Which sequence is getting closer to zero?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "8,8,8,.....",
+              "is_correct": false
+          },
+          {
+              "content": "3, -3, 3, -3, ...",
+              "is_correct": false
+          },
+          {
+              "content": "6,7,8,9,10,....",
+              "is_correct": false
+          },
+          {
+              "content": "1,1/2,1/3,1/4,....",
+              "is_correct": true
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_15",
+      "content": "Which of the following sequences is an arithmetic sequence?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "1, 3, 5, 7, ...",
+              "is_correct": true
+          },
+          {
+              "content": "2, 4, 8, 16, ...",
+              "is_correct": false
+          },
+          {
+              "content": "1, -1, 1, -1, ...",
+              "is_correct": false
+          },
+          {
+              "content": "5, 5, 5, ...",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_20",
+      "content": "Which sequence is an example of an alternating sequence?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "2, 4, 6, 8, ...",
+              "is_correct": false
+          },
+          {
+              "content": "5, 5, 5, ...",
+              "is_correct": false
+          },
+          {
+              "content": "5, -5, 5, -5, ...",
+              "is_correct": true
+          },
+          {
+              "content": "2.7, 2.71, 2.718, ...",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_19",
+      "content": "What is an alternating sequence?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "A sequence that increases without bound",
+              "is_correct": false
+          },
+          {
+              "content": "A sequence where the terms alternate in sign and the sign changes from term to term. It alternates between different values",
+              "is_correct": true
+          },
+          {
+              "content": "A sequence that gets closer to square root of 2",
+              "is_correct": false
+          },
+          {
+              "content": "A sequence that alternates between values",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_18",
+      "content": "What is a limit in the context of sequences?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "A sequence that repeats the same value",
+              "is_correct": false
+          },
+          {
+              "content": "A value that the terms of a sequence get arbitrarily close to",
+              "is_correct": true
+          },
+          {
+              "content": "A sequence that alternates between values",
+              "is_correct": false
+          },
+          {
+              "content": "A sequence that increases without bound",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_10",
+      "content": " Which sequence is an example of an alternating sequence?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "1, 2, 3, ...",
+              "is_correct": false
+          },
+          {
+              "content": "7, 7, 7, ...",
+              "is_correct": false
+          },
+          {
+              "content": "2,-2,2,-2......",
+              "is_correct": true
+          },
+          {
+              "content": "3, 3.1, 3.14, ...",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_9",
+      "content": "Why are real numbers preferred in modern science?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "For their simplicity",
+              "is_correct": false
+          },
+          {
+              "content": "For their accuracy and completeness",
+              "is_correct": true
+          },
+          {
+              "content": "For their historical significance",
+              "is_correct": false
+          },
+          {
+              "content": "For their connection to integers",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_11",
+      "content": "What does it mean for a sequence to get closer to a limit?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "The sequence alternates between values",
+              "is_correct": false
+          },
+          {
+              "content": "The sequence repeats the same value",
+              "is_correct": false
+          },
+          {
+              "content": "The sequence values approach a specific number",
+              "is_correct": true
+          },
+          {
+              "content": "The sequence increases without bound",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_8",
+      "content": "What role do real numbers play in predicting weather?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "To simplify models",
+              "is_correct": false
+          },
+          {
+              "content": "To create precise weather predictions",
+              "is_correct": true
+          },
+          {
+              "content": "To track historical data",
+              "is_correct": false
+          },
+          {
+              "content": "To measure temperature",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_7",
+      "content": "What makes rational numbers inadequate for solving certain equations?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "Their density",
+              "is_correct": false
+          },
+          {
+              "content": "Their simplicity",
+              "is_correct": false
+          },
+          {
+              "content": "Their incompleteness",
+              "is_correct": true
+          },
+          {
+              "content": "Their connection to integers",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_12",
+      "content": "What is the behavior of the sequence 7, 7, 7, ...?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "It gets closer to 𝜋",
+              "is_correct": false
+          },
+          {
+              "content": "It alternates between values",
+              "is_correct": false
+          },
+          {
+              "content": "It repeats the same value",
+              "is_correct": true
+          },
+          {
+              "content": "It increases without bound",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_13",
+      "content": "Which of the following sequences represents the sequence of natural numbers?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "1, -1, 1, -1, ...",
+              "is_correct": false
+          },
+          {
+              "content": "7, 7, 7, ...",
+              "is_correct": false
+          },
+          {
+              "content": "1, 2, 3,4,5 ...",
+              "is_correct": true
+          },
+          {
+              "content": "3, 3.1, 3.14, ...",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_3",
+      "content": "Why is the rational line not considered complete?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "There is nothing called a rational line",
+              "is_correct": false
+          },
+          {
+              "content": "It lacks a least upper bound for all sets",
+              "is_correct": true
+          },
+          {
+              "content": "It lacks a connection to integers",
+              "is_correct": false
+          },
+          {
+              "content": "It lacks a sufficient number of rational numbers",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_2",
+      "content": "What is an example of using sequences in fitness routines?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "Creating a diet plan",
+              "is_correct": false
+          },
+          {
+              "content": "For the aesthetics of the app",
+              "is_correct": false
+          },
+          {
+              "content": "Increasing exercise repetitions",
+              "is_correct": true
+          },
+          {
+              "content": "Measuring heart rate",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_6",
+      "content": "How does the completeness property assist in algorithms and data structures?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By providing exact solutions",
+              "is_correct": false
+          },
+          {
+              "content": "By ensuring algorithm stability",
+              "is_correct": true
+          },
+          {
+              "content": "By simplifying code",
+              "is_correct": false
+          },
+          {
+              "content": "By offering statistical data",
+              "is_correct": false
+          }
+      ]
+  },
+  {
+      "title": "mt_v2_ca5_1",
+      "content": "How can sequences help in stock market analysis?",
+      "type": "mcq",
+      "difficulty": "easy",
+      "choices": [
+          {
+              "content": "By predicting company profits",
+              "is_correct": false
+          },
+          {
+              "content": "By tracking economic policies",
+              "is_correct": false
+          },
+          {
+              "content": "By analyzing stock prices over time",
+              "is_correct": true
+          },
+          {
+              "content": "By simplifying financial data",
+              "is_correct": false
+          }
+      ]
+  }
+]
